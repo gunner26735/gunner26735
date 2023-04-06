@@ -1,5 +1,7 @@
-### Hi there 👋
+# Namaste!🙏️ folks 
 
+## Introduction
+- I am Junior Computer Engineering student who is currently pursuing his Bachelor's in C.E. I am avid explorer who likes gather knowledge in different domains wether it is Science, Astronomy & Technology , etc. Currently, I am doing Hackathons with my fellow teammates as a hobby as well as for learning new things and building relation in communities😁.Also, I am an anime⛩ weeb! and a gamer. 
 <!--
 **gunner26735/gunner26735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
